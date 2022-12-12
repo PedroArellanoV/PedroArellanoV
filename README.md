@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**PedroArellanoV/PedroArellanoV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola! Mi nombre es Pedro.
+### Soy Desarrollador de Android Junior.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Estudiante autodidacta.
+Buscando trabajo como desarrollador para seguir ampliando mis conocimientos y mis proyectos.
+Apasionado de la programación y el diseño gráfico.
+
+#### Conocimientos:
+
+- Kotlin nivel: **Junior** con ***Android Studio***.
+- MVVM, Clean Architecture, Corrutinas, Room y Dagger Hilt.
+- Git, GitHub, y GitFlow.
+
