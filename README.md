@@ -5,6 +5,7 @@
 
 
 Estudiante autodidacta.
+
 Buscando trabajo como desarrollador para seguir ampliando mis conocimientos y mis proyectos.
 Apasionado de la programación y el diseño gráfico.
 
