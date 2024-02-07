@@ -1,10 +1,8 @@
 
 # Hey! My name is Pedro.
-### I´m a Mobile Developer in progress...
+### I´m a Mobile Developer *in progress...*
 
 
-
-"Self thought"
 
 Hello, my name is Pedro. I'm a self-taught Mobile Developer currently focusing on Android Native development with Kotlin. My skills include proficiency in Kotlin, Android Studio, MVVM, Clean Architecture, Coroutines, Room, and Dagger Hilt. I'm passionate about diving deep into mobile development and aspire to become a proficient Android and iOS developer. Continuously learning and evolving is my mantra as I work towards achieving my goals in the tech industry.
 
