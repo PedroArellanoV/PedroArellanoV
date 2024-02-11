@@ -10,7 +10,7 @@ Hello, my name is Pedro. I'm a self-taught Mobile Developer currently focusing o
 
 - Kotlin level: **Junior** with ***Android Studio***.
 - Jetpack Compose and Android Views.
-- MVVM, Clean Architecture, Corrutinas, Room y Dagger Hilt.
+- MVVM, Clean Architecture, Corrutines, Room and Dagger Hilt.
 - Git & GitHub.
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
