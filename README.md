@@ -4,14 +4,9 @@
 
 
 
-Hello, my name is Pedro. I'm a self-taught Mobile Developer currently focusing on Android Native development with Kotlin. My skills include proficiency in Kotlin, Android Studio, MVVM, Clean Architecture, Coroutines, Room, and Dagger Hilt. I'm passionate about diving deep into mobile development and aspire to become a proficient Android and iOS developer. Continuously learning and evolving is my mantra as I work towards achieving my goals in the tech industry.
+Hello, my name is Pedro. I'm a self-taught Mobile Developer currently focusing on Android Native development with Kotlin. I'm passionate about diving deep into mobile development and aspire to become a proficient Android and iOS developer. 
 
-
-
-- Kotlin level: **Junior** with ***Android Studio***.
-- Jetpack Compose and Android Views.
-- MVVM, Clean Architecture, Corrutines, Room and Dagger Hilt.
-- Git & GitHub.
+In this profile you will see all my personal proyects while I'm learning new skills and trying to implement them in real scensarios.
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
